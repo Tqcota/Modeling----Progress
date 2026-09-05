@@ -64,6 +64,47 @@ A lightweight curtain model created for use throughout my facility environments.
 
 ---
 
+## Security Door
+
+A security door modeled for Alpine, with different details on each side including a push bar, window, handle, hinges, and frame.
+
+### In-Game
+
+#### Front
+
+![Security Door Front](security-door-front-ingame.png)
+
+#### Back
+
+![Security Door Back](security-door-back-ingame.png)
+
+### Model
+
+#### Front
+
+![Security Door Front Model](security-door-front-model.png)
+
+#### Back
+
+![Security Door Back Model](security-door-back-model.png)
+
+### Wireframe
+
+![Security Door Wireframe](security-door-wireframe.png)
+
+### Model Statistics
+
+| Property | Count |
+| --- | ---: |
+| Vertices | 1,549 |
+| Faces | 1,770 |
+| Triangles | 3,040 |
+
+**Software:** Blender  
+**Type:** Architectural / Environment Asset
+
+---
+
 ## About
 
 These assets were created for my Roblox environment development work using Blender.
